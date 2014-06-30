@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Clubspot Mockup": {
+            "applicationId": "XO5K7sSeZkN6rVIXQHy7PatooMVMqHxnV8WZWQe0", 
+            "masterKey": "qhljysT0D0lA7pprOZYiPPAekOlKeMvtWZgf5bov"
+        }, 
+        "_default": {
+            "link": "Clubspot Mockup"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.18"
+    }
+}
